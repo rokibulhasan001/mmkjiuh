@@ -1,0 +1,73 @@
+.rakib{
+	width: 50%;
+	margin: 0 auto;
+	border: 2px solid #ddd;
+	padding: 50px;
+	background-color: lightblue;
+	
+}
+.first-name{
+	width: 95%;
+	padding: 10px 10px;
+	
+
+
+}
+.last-name{
+	width: 95%;
+	padding: 10px 10px;
+	
+
+}
+.email{
+	width: 95%;
+	padding: 10px 10px;
+
+
+}
+.passward{
+	width: 95%;
+	padding: 10px 10px;
+	
+
+}
+.ami{
+	padding-bottom: 5px;
+
+	
+
+}
+.baby{
+	width: 55%;
+	margin: 0 auto;
+	border: 2px solid #ddd;
+	margin-top: 20px;
+	text-align: center;
+	margin-bottom: 20px;
+	background-color: #ddd;
+
+}
+.rohan{
+	width: 55%;
+	margin: 0 auto;
+	
+
+
+}
+table{
+	width: 100%;
+	border: 2px solid black;
+	
+	
+	
+
+}
+tr,td,th{
+	font-size: 20px;
+	text-align: center;
+	border: 2px solid black;
+	padding: 0;
+	
+
+}
+
